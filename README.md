@@ -32,6 +32,8 @@ The report is converted into a presentation format.
 Present insights clearly to stakeholders
 Use visual storytelling for better understanding
 
+using Gamma AI tool is optional , instead of Gamma we can also use Power Point for the slides preparations
+
 7. GitHub Repository                        
 -Finally, the project is uploaded to GitHub.
 -Store code, datasets, and documentation
