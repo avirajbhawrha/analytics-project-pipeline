@@ -38,3 +38,15 @@ using Gamma AI tool is optional , instead of Gamma we can also use Power Point f
 -Finally, the project is uploaded to GitHub.
 -Store code, datasets, and documentation
 -Ensure version control and easy collaboration
+
+## 📊 Analytics Project Pipeline
+
+| Stage | Description | Key Activities / Tools |
+
+ 1. Business Problem Statement | Define the objective of the project clearly to align with business goals | Identify problem, set objectives, understand requirements |
+ 2. Data Modelling & EDA (Python) | Import and preprocess data, then explore it for patterns and insights | Data cleaning, transformation, structuring, EDA using Python |
+ 3. Data Analysis (SQL) | Perform structured data analysis after loading data into a database | SQL queries, joins, aggregations, filtering, insight extraction |
+ 4. Interactive Dashboard (Power BI) | Visualize insights through dashboards for stakeholders | Charts, graphs, KPIs, interactive reports using Power BI |
+ 5. Project Report | Summarize findings and provide actionable insights | Documentation, key findings, recommendations |
+ 6. Presentation (Gamma AI / PowerPoint) | Convert report into presentation format for stakeholders | Visual storytelling, slides creation (Gamma AI optional, PowerPoint alternative) |
+ 7. GitHub Repository | Store and share the complete project | Upload code, datasets, documentation, version control, collaboration |
